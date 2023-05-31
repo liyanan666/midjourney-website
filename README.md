@@ -1,4 +1,4 @@
-# midjourney 在线体验网站收集列表
+# midjourney 国内在线体验网站收集列表
 
 midjourney国内镜像网站合集
 
